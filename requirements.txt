@@ -1,0 +1,7 @@
+numpy
+matplotlib
+jupyter
+keras
+tensorflow-rocm
+Pillow
+scikit-learn
